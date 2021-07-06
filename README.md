@@ -1,5 +1,5 @@
 # AdvancedJava
-This repo is from Platzi's course "Curso Avanzado de Java SE"
+This repo is from Platzi's course ["Curso Avanzado de Java SE"](https://platzi.com/clases/java-avanzado/)
 
 ## Table of contents
 * [General info](#general-info)
