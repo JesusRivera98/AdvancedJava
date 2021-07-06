@@ -20,7 +20,7 @@ In this course we learn more advanced concepts of Java SE including:
 - JDBC - System to manage databases with Java
 - Lambdas - Adapt and declare functions at the time of use
 
-The final result of this project was a modification of a previous system in which the visualization of movies, books and series was handled, adding modularity and creating cleaner code by implementing the concepts mentioned above.
+The final result of this project was a modification of a previous system in which the visualization of movies, books and series was handled, adding modularity and creating cleaner code by implementing the concepts mentioned above and using a database to manage the data.
 
 ## Technologies
 
@@ -29,6 +29,7 @@ This project was created using:
 * In the course they use [Eclipse](https://www.eclipse.org/downloads/) but I preferred IntelliJ IDEA for ease of use
 * OpenJDK 8
 * OpenJDK 9 or newer
+* Xampp
 
 ## Setup
 
@@ -37,3 +38,4 @@ To work in this project, install it locally:
 * [OpenJDK 8](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot)
 * [OpenJDK 11](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot)
 * [Java](https://www.java.com/es/download/manual.jsp) 11 or higher
+* [Xampp](https://www.apachefriends.org/download.html)
